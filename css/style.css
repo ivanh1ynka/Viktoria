@@ -486,6 +486,7 @@ body.locked {
           align-items: start;
   gap: 30px;
   margin: 20px 0;
+  border-radius: 30px;
   -webkit-box-shadow: -15px 3px 10px #737171;
           box-shadow: -15px 3px 10px #737171;
 }
