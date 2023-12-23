@@ -537,10 +537,11 @@ section {
   }
 
   .header__menu {
-    gap: 10px;
+    gap: 5px;
   }
 
   .header__link {
+    font-family: sans-serif;
     font-size: 14px;
   }
 
