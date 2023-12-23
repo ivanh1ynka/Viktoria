@@ -549,7 +549,7 @@ section {
   }
 
   .home__title {
-    font-size: 48px;
+    font-size: 28px;
     text-align: center;
     text-shadow: 2px 2px 10px #bd00f1;
   }
@@ -589,10 +589,22 @@ section {
             flex-direction: column;
   }
 
+  .mine__img-village {
+    min-width: 250px;
+  }
+
+  .mine__text {
+    font-size: 20px;
+  }
+
+  .mine__lessons-title {
+    font-size: 20px;
+  }
+
   .mine__boxs {
-    -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     gap: 40px 20px;
   }
 
@@ -617,8 +629,8 @@ section {
   }
 
   .media .video {
-    width: 455px;
-    height: 255px;
+    width: 400px;
+    height: 225px;
   }
 
   .zno__title {
@@ -626,7 +638,7 @@ section {
   }
 
   .zno__text {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .zno__item {
